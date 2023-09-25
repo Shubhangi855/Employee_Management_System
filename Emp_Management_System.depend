@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1695472732 source:c:\users\shubhangi\documents\code block c files\emp_management_system\main.c
+	"employee.h"
+
+1695473007 c:\users\shubhangi\documents\code block c files\emp_management_system\employee.h
+	"validation_util.h"
+
+1695301987 source:c:\users\shubhangi\documents\code block c files\emp_management_system\employee.c
+	"employee.h"
+	<stdio.h>
+
+1695303943 c:\users\shubhangi\documents\code block c files\emp_management_system\validation_util.h
+
+1695303943 source:c:\users\shubhangi\documents\code block c files\emp_management_system\validation_util.c
+	"validation_util.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1695473184 source:c:\users\shubhangi\documents\code block c files\emp_management_system\manager.c
+	"employee.h"
+	<stdio.h>
+	"validation_util.h"
+
